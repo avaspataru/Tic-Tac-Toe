@@ -1,0 +1,255 @@
+Initialize engine version: 4.2.0f4 (38efbd14869d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 21.20.16.4550]
+    Renderer: Intel(R) HD Graphics 620
+    Vendor:   Intel
+    VRAM:     2111 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\spata\Documents\msft-game-master\TheCube_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\spata\Documents\msft-game-master\TheCube_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\spata\Documents\msft-game-master\TheCube_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\spata\Documents\msft-game-master\TheCube_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\spata\Documents\msft-game-master\TheCube_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\spata\Documents\msft-game-master\TheCube_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\spata\Documents\msft-game-master\TheCube_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\spata\Documents\msft-game-master\TheCube_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+desktop: 1920x1080 60Hz; virtual: 1280x720 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+UnloadTime: 0.487456 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 442.
+Total: 0.965096 ms (FindLiveObjects: 0.027185 ms CreateObjectMapping: 0.018501 ms MarkObjects: 0.087221 ms  DeleteObjects: 0.157451 ms)
+
+Platform assembly: C:\Users\spata\Documents\msft-game-master\TheCube_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\spata\Documents\msft-game-master\TheCube_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 2.356481 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 219.
+Total: 3.464303 ms (FindLiveObjects: 0.048707 ms CreateObjectMapping: 0.057769 ms MarkObjects: 0.219752 ms  DeleteObjects: 0.502937 ms)
+
+UnloadTime: 1.414417 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 219.
+Total: 3.375194 ms (FindLiveObjects: 0.045687 ms CreateObjectMapping: 0.040778 ms MarkObjects: 0.208424 ms  DeleteObjects: 0.021144 ms)
+
+UnloadTime: 1.402712 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 219.
+Total: 2.954569 ms (FindLiveObjects: 0.043044 ms CreateObjectMapping: 0.049463 ms MarkObjects: 0.209557 ms  DeleteObjects: 0.013592 ms)
+
+UnloadTime: 1.286795 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 219.
+Total: 3.053873 ms (FindLiveObjects: 0.063811 ms CreateObjectMapping: 0.039645 ms MarkObjects: 0.181993 ms  DeleteObjects: 0.012082 ms)
+
+UnloadTime: 1.282641 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 219.
+Total: 2.871879 ms (FindLiveObjects: 0.046064 ms CreateObjectMapping: 0.051350 ms MarkObjects: 0.183126 ms  DeleteObjects: 0.012837 ms)
+
+UnloadTime: 1.028530 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 219.
+Total: 2.370074 ms (FindLiveObjects: 0.032471 ms CreateObjectMapping: 0.031339 ms MarkObjects: 0.154052 ms  DeleteObjects: 0.010194 ms)
+
+UnloadTime: 1.215054 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 219.
+Total: 3.027064 ms (FindLiveObjects: 0.037002 ms CreateObjectMapping: 0.054371 ms MarkObjects: 0.187280 ms  DeleteObjects: 0.012837 ms)
+
+UnloadTime: 1.221473 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 219.
+Total: 2.367431 ms (FindLiveObjects: 0.032849 ms CreateObjectMapping: 0.031339 ms MarkObjects: 0.157073 ms  DeleteObjects: 0.010949 ms)
+
+UnloadTime: 1.197686 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 219.
+Total: 2.671383 ms (FindLiveObjects: 0.036625 ms CreateObjectMapping: 0.037002 ms MarkObjects: 0.186524 ms  DeleteObjects: 0.012460 ms)
+
+UnloadTime: 1.023243 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 219.
+Total: 2.331561 ms (FindLiveObjects: 0.032849 ms CreateObjectMapping: 0.031716 ms MarkObjects: 0.161604 ms  DeleteObjects: 0.010194 ms)
+
+UnloadTime: 1.063267 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 219.
+Total: 2.351195 ms (FindLiveObjects: 0.031339 ms CreateObjectMapping: 0.033227 ms MarkObjects: 0.171044 ms  DeleteObjects: 0.010949 ms)
+
+UnloadTime: 1.035326 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 219.
+Total: 2.441814 ms (FindLiveObjects: 0.030961 ms CreateObjectMapping: 0.031716 ms MarkObjects: 0.168778 ms  DeleteObjects: 0.009817 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at WhoWon.Main () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+UnloadTime: 0.406654 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 442.
+Total: 1.005119 ms (FindLiveObjects: 0.023410 ms CreateObjectMapping: 0.021144 ms MarkObjects: 0.091752 ms  DeleteObjects: 0.065321 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+UnloadTime: 0.436860 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.663786 ms (FindLiveObjects: 0.012460 ms CreateObjectMapping: 0.009439 ms MarkObjects: 0.046820 ms  DeleteObjects: 0.084578 ms)
+
